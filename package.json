@@ -1,0 +1,23 @@
+{
+  "name": "backend-nodejs",
+  "version": "1.0.0",
+  "description": "learning NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterlee7/backend-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walterlee7/backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/walterlee7/backend-nodejs#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
